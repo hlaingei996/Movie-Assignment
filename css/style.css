@@ -1,0 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.card-title{
+    width: 100%;
+    background: rgba(000,000,000,0.5);
+}
